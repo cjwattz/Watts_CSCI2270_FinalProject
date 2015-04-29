@@ -1,9 +1,11 @@
 # Watts_CSCI2270_FinalProject
 CSCI2270 Final Project
 
+ATTENTION:  PROJECT WILL BE REUPLOADED SHORTLY!  I HAD A VM AND COMPUTER ISSUE WHICH CAUSED A DELAY.  SORRY FOR THE INCONVENIENCE ~ Cassandra
+
 Project Summary:
 
-  This program is a battleship game.  
+  
 
 How to Run:
 
